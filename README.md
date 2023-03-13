@@ -1,4 +1,4 @@
-This repository contains collection of my open-source work written at work that I'm proud of.
+This repository contains a collection of my open-source work written at work that I'm proud of.
 Other publications can be found on [ORCID](https://orcid.org/0000-0002-7038-7971).
 
 # Open-Source Code 
