@@ -1,5 +1,6 @@
 This repository contains a collection of my open-source work written at work that I'm proud of.
-Other publications can be found on [ORCID](https://orcid.org/0000-0002-7038-7971).
+
+My other publications can be found on [ORCID](https://orcid.org/0000-0002-7038-7971).
 
 # Open-Source Code 
 ## PLIX
@@ -13,7 +14,7 @@ Source: [Zenodo](https://zenodo.org/record/6597257)
 ## A-Match
 NFDI4Ing seed fund project lead by me. A-Match is a UI to allow semantic matching of parameters between two APIs.
 
-[Zenodo](https://zenodo.org/record/6641652)
+Source: [Zenodo](https://zenodo.org/record/6641652)
 
 ## OntoHuman
 OntoHuman is a human-in-the-loop-based suite of tools for ontology enrichment and information extraction.
